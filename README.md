@@ -31,8 +31,8 @@
     </section>
 
     <section id="about" class="about">
-        <h2>About Me</h2>
-        <p>I'm a passionate web developer who loves to create elegant, responsive, and user-friendly websites.</p>
+        <h2>About us</h2>
+        <p> we are a passionate website who love to help families grow and produce a loving family while also making it a user-friendly website.</p>
         <p>Feel free to check out my work below and get in touch if you're interested in collaborating!</p>
     </section>
 
