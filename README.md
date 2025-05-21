@@ -33,7 +33,7 @@
     <section id="about" class="about">
         <h2>About us</h2>
         <p> we are a passionate website who love to help families grow and produce a loving family while also making it a user-friendly website.</p>
-        <p>Feel free to check out my work below and get in touch if you're interested in collaborating!</p>
+        <p>Feel free to check out our information below as it caters to all.</p>
     </section>
 
     <section id="projects" class="projects">
