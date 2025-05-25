@@ -23,9 +23,9 @@
         <section id="resources">
             <h2>Resources</h2>
             <ul>
-                <li><a href="https://www.feedingamerica.org/" target="_blank">Food Assistance</a></li>
-                <li><a href="https://www.benefits.gov/" target="_blank">Financial Support</a></li>
-                <li><a href="https://www.mentalhealth.gov/" target="_blank">Mental Health Services</a></li>
+                <li><a href="https://www.foodbank.co.nz/" target="_blank">Food Assistance</a></li>
+                <li><a href="https://www.workandincome.govt.nz/" target="_blank">Financial Support</a></li>
+                <li><a href="https://mentalhealth.org.nz/" target="_blank">Mental Health Services</a></li>
             </ul>
         </section>
 
