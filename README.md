@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
@@ -102,10 +101,25 @@
             margin-top: 20px;
         }
 
+        figure {
+            max-width: 300px;
+            text-align: center;
+        }
+
+        figure img {
+            width: 100%;
+            border-radius: 5px;
+        }
+
         @media (max-width: 600px) {
             .nav-links {
                 flex-direction: column;
                 gap: 10px;
+            }
+
+            .change-grid {
+                flex-direction: column;
+                align-items: center;
             }
         }
     </style>
@@ -118,6 +132,7 @@
                 <li><a href="#resources">Resources</a></li>
                 <li><a href="#get-help">Get Help</a></li>
                 <li><a href="#extra-support">More Support</a></li>
+                <li><a href="#change-situation">Changing Your Situation</a></li>
             </ul>
         </nav>
         <p class="intro">Local support, resources, and guidance for whānau in need across Aotearoa.</p>
@@ -157,6 +172,31 @@
                 <li><a href="https://www.lifeline.org.nz/" target="_blank" rel="noopener">Lifeline Aotearoa</a></li>
                 <li><a href="https://www.hud.govt.nz/" target="_blank" rel="noopener">Ministry of Housing and Urban Development</a></li>
             </ul>
+        </section>
+
+        <section id="change-situation">
+            <h2>How to Change Your Situation</h2>
+            <div class="change-grid" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+                <figure>
+                    <img src="images/assess.jpg" alt="Assessing situation">
+                    <figcaption><strong>Step 1:</strong> Understand your current financial state.</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="images/help.jpg" alt="Getting help">
+                    <figcaption><strong>Step 2:</strong> Reach out for immediate local assistance.</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="images/skills.jpg" alt="Building job skills">
+                    <figcaption><strong>Step 3:</strong> Explore job training and upskilling options.</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="images/mental_health.jpg" alt="Mental health support">
+                    <figcaption><strong>Step 4:</strong> Take care of your mental wellbeing.</figcaption>
+                </figure>
+            </div>
         </section>
     </main>
 
