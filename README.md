@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
@@ -178,39 +179,65 @@
             <h2>How to Change Your Situation</h2>
             <div class="change-grid" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
                 <figure>
-                    <img src="images/assess.jpg" alt="Assessing situation">
+                    <img src="images/assess.jpg" alt="Assessing situation" />
                     <figcaption><strong>Step 1:</strong> Understand your current financial state.</figcaption>
                 </figure>
 
                 <figure>
-                    <img src="images/help.jpg" alt="Getting help">
+                    <img src="images/help.jpg" alt="Getting help" />
                     <figcaption><strong>Step 2:</strong> Reach out for immediate local assistance.</figcaption>
                 </figure>
 
                 <figure>
-                    <img src="images/skills.jpg" alt="Building job skills">
+                    <img src="images/skills.jpg" alt="Building job skills" />
                     <figcaption><strong>Step 3:</strong> Explore job training and upskilling options.</figcaption>
                 </figure>
 
                 <figure>
-                    <img src="images/mental_health.jpg" alt="Mental health support">
+                    <img src="images/mental_health.jpg" alt="Mental health support" />
                     <figcaption><strong>Step 4:</strong> Take care of your mental wellbeing.</figcaption>
                 </figure>
             </div>
         </section>
-    </main>
 
-    <footer>
-        <p>© 2025 Support for Kiwi Families. All rights reserved. | Aotearoa New Zealand</p>
-    </footer>
+        <!-- Added Food Assistance Section -->
+        <section id="food-assistance">
+            <h2>Food Assistance in Auckland</h2>
+            <p>Find support from local food banks and community organizations in the Auckland region:</p>
+            <ul>
+                <li><strong>Auckland City Mission</strong> – 15 Auburn Street, Grafton. Call <a href="tel:093039266">09 303 9266</a> to arrange a food parcel. Visit: <a href="https://www.taikura.org.nz/food-deliveries-packed-meals-foodbanks-and-food-parcels/" target="_blank" rel="noopener">taikura.org.nz</a></li>
 
-    <script>
-        // Simulate a confirmation message (demo purposes only)
-        document.querySelector('form').addEventListener('submit', function (e) {
-            e.preventDefault(); // Prevent actual submission for demo
-            this.style.display = 'none';
-            document.getElementById('confirmation').style.display = 'block';
-        });
-    </script>
-</body>
-</html>
+                <li><strong>St Vincent de Paul Society of Auckland</strong> – Foodbank in Newton and South Auckland. Call <a href="tel:098156122">09 815 6122</a> or use the <a href="https://svdpak.org.nz/svdpak/need-food-support/" target="_blank" rel="noopener">online request form</a>.</li>
+
+                <li><strong>KiwiHarvest</strong> – Supports food redistribution to other charities. More info: <a href="https://www.kiwiharvest.org.nz/receive-food" target="_blank" rel="noopener">kiwiharvest.org.nz</a></li>
+
+                <li><strong>The Fono</strong> – Provides support for Pasifika families. Call <a href="tel:0800366648">0800 FONO4U (0800 366 648)</a>.</li>
+
+                <li><strong>Manukau Urban Māori Authority (MUMA)</strong> – Food parcels for South Auckland. Call <a href="tel:0800686232">0800 686 232</a> (Weekdays 9:30am–1:30pm).</li>
+
+                <li><strong>Salvation Army</strong> – Mt Wellington branch: <a href="tel:093797615">09 379 7615</a> or national helpline: <a href="tel:0800530000">0800 53 0000</a>. Arrange a food parcel ahead of time.</li>
+
+                <li><strong>Papakura Marae</strong> – Delivers to Papakura & Manurewa. Call <a href="tel:092972036">09 297 2036</a>.</li>
+
+                <li><strong>Sunday Blessings</strong> – Free meals on Sunday evenings at Ellen Melville Centre (2 Freyberg Place, Auckland Central). Visit: <a href="https://www.sundayblessings.co.nz/" target="_blank" rel="noopener">sundayblessings.co.nz</a></li>
+
+                <li><strong>FoodTogether</strong> – Affordable fresh produce across Auckland. Visit: <a href="https://www.foodtogether.co.nz/" target="_blank" rel="noopener">foodtogether.co.nz</a></li>
+            </ul>
+            <p><em>Note:</em> Most services require photo ID and proof of address. Contact providers directly for eligibility and hours.</p>
+        </section>
+
+        <!-- Added Financial Assistance Section -->
+        <section id="financial-assistance">
+            <h2>Pathways Out of Poverty: Achieving Financial Success</h2>
+            <p>Poverty is more than lack of money — it's about opportunity, access, and support. Here's a 10-step roadmap to help your whānau gain financial stability in Aotearoa:</p>
+            <ol>
+                <li>
+                    <strong>Understand Your Financial Situation</strong><br>
+                    Track all income, expenses, and debts. Use tools like <a href="https://sorted.org.nz/tools/budgeting-tool" target="_blank" rel="noopener">Sorted Budget Tool</a> to find out where you stand and what needs changing.
+                </li>
+                <li>
+                    <strong>Create a Survival Budget, Then a Growth Budget</strong><br>
+
+
+    
+        
